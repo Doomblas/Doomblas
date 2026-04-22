@@ -6,8 +6,6 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/Doomblas/Doomblas/main/assets/oikawa.gif" />
-
 <p align="left">
 - 💻 Coding since 2024 <br>
 - 📚 Currently learning: Django, REST APIs, and backend development <br>
