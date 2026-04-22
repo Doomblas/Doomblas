@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
 
+<br clear="right">
+
 <h3 align="left">🛠 Frameworks and tools</h3>
 
 <div align="left">
@@ -42,4 +44,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
+</div>
+
+<br clear="right">
+
+<h3 align="left">📫 Contact Me</h3>
+<div align="left">
+  <a href="mailto:douglaspardoc@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/douglas-carre%C3%B1o-pardo-348a74375" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
