@@ -4,8 +4,6 @@
 💻 Computer Science student focused on building real-world applications and solving problems through software.
 </p>
 
----
-
 <h2 align="left">🧠 About Me</h2>
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/Doomblas/Doomblas/main/assets/oikawa.gif" />
@@ -22,9 +20,7 @@
 
 <br clear="right">
 
----
-
-<h2 align="left">💻 I Code With</h2>
+<h2 align="left">💻 I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -36,9 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
 
----
-
-<h3 align="left">🛠 Frameworks & Tools</h3>
+<h3 align="left">🛠 Frameworks and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
@@ -49,8 +43,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </div>
-
----
 
 <h3 align="left">📫 Contact Me</h3>
 
@@ -63,7 +55,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/Doomblas/Doomblas/output/github-snake-dark.svg" alt="Snake animation"/>
