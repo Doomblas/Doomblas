@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
 
-<h3 align="left">🛠 Frameworks and tools</h3>
+<h2 align="left">🛠 Frameworks and tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </div>
 
-<h3 align="left">📫 Contact Me</h3>
+<h2 align="left">📫 Contact Me</h2>
 
 <div align="left">
   <a href="mailto:douglaspardoc@gmail.com">
