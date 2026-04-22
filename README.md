@@ -4,7 +4,11 @@
 💻 Computer Science student focused on building real-world applications and solving problems through software.
 </p>
 
+---
+
 <h2 align="left">🧠 About Me</h2>
+
+<img align="right" height="180" src="https://raw.githubusercontent.com/Doomblas/Doomblas/main/assets/oikawa.gif" />
 
 <p align="left">
 - 💻 Coding since 2024 <br>
@@ -18,7 +22,9 @@
 
 <br clear="right">
 
-<h2 align="left">I code with</h2>
+---
+
+<h2 align="left">💻 I Code With</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -30,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
 
-<br clear="right">
+---
 
-<h3 align="left">🛠 Frameworks and tools</h3>
+<h3 align="left">🛠 Frameworks & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
@@ -42,19 +48,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40"/>
 </div>
 
-<br clear="right">
+---
 
 <h3 align="left">📫 Contact Me</h3>
+
 <div align="left">
   <a href="mailto:douglaspardoc@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/douglas-carre%C3%B1o-pardo-348a74375" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Doomblas/Doomblas/output/github-snake-dark.svg" alt="Snake animation"/>
